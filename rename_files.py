@@ -1,3 +1,4 @@
+#Example
 #  before
 # common_string_file_1.py
 # common_string_file_2.py
@@ -11,8 +12,6 @@
 # file_4.py
 
 import os
-
-
 # string before which you want to delete all characters in name
 DELETE_BEFORE = "file"
 ENDSWITH = ".py"
